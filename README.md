@@ -5,4 +5,4 @@ The input data is 11 parameters recorded from aircraft systems with an extra par
 
 The objective of this project is to detect the windows that are abnormal.
 
-Final report is available under the file name Report.ipynb.
+Final report is available with the file name Report.ipynb.
